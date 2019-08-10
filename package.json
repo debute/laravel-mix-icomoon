@@ -1,0 +1,45 @@
+{
+  "name": "laravel-mix-icomoon",
+  "version": "0.0.1",
+  "description": "Laravel Mix extension to generate icomoon fonts.",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "README.md",
+    "package.json"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debute/laravel-mix-icomoon.git"
+  },
+  "keywords": [
+    "laravel mix",
+    "webpack",
+    "watch",
+    "icomoon",
+    "fontico",
+    "font icons",
+    "parser",
+    "generator"
+  ],
+  "author": "Patrik Krehák",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/debute/laravel-mix-icomoon/issues"
+  },
+  "homepage": "https://github.com/debute/laravel-mix-icomoon",
+  "peerDependencies": {
+    "laravel-mix": "^4.0.7"
+  },
+  "dependencies": {
+    "chokidar": "3.0.2",
+    "gulp": "^4.0.2",
+    "gulp-decompress": "^2.0.2",
+    "gulp-filter": "^6.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-replace": "^1.0.0"
+  }
+}
