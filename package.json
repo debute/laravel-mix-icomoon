@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/debute/laravel-mix-icomoon.git"
+    "url": "git+https://github.com/krehak/laravel-mix-icomoon.git"
   },
   "keywords": [
     "laravel mix",
@@ -28,9 +28,9 @@
   "author": "Patrik Krehák",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/debute/laravel-mix-icomoon/issues"
+    "url": "https://github.com/krehak/laravel-mix-icomoon/issues"
   },
-  "homepage": "https://github.com/debute/laravel-mix-icomoon",
+  "homepage": "https://github.com/krehak/laravel-mix-icomoon",
   "peerDependencies": {
     "laravel-mix": "^4.0.7"
   },
