@@ -1,6 +1,6 @@
 {
   "name": "laravel-mix-icomoon",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Laravel Mix extension to generate icomoon fonts.",
   "main": "index.js",
   "files": [
@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/krehak/laravel-mix-icomoon",
   "peerDependencies": {
-    "laravel-mix": "^4.0.7"
+    "laravel-mix": "^6.0"
   },
   "dependencies": {
     "chokidar": "3.0.2",

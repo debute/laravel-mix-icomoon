@@ -59,3 +59,6 @@ If nothing is passed to the extension inside your Laravel Mix config, the follow
 * `cssFile` (string). Path to CSS file, where icomoon fonts will be declared.
 * `reload` (boolean). Whenever to reload browser after success. I recommend having this option enabled since Laravel Mix's SASS HMR (when running `npm run hot`) is not "perfect".
 * `debug` (boolean). Whenever to log extension events messages to the console.
+
+#### New in version 0.1.x
+* Now supports `laravel-mix` version 6
